@@ -10,9 +10,9 @@ body:
     type: markdown
     attributes:
       value: >-
-        ⚠️⚠️⚠️⚠️ 
+        ⚠️⚠️⚠️⚠️ <br>
         This is only to be used when there's a bug in the course, not when answering a particular exercise.
-        Please, read well the instructions as to where you may need to create the issue first.
+        Please, read well the instructions as to where you may need to create the issue first. <br>
         ⚠️⚠️⚠️⚠️
   - id: description
     type: textarea
