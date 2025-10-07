@@ -4,7 +4,7 @@ description: >-
   I've finished some class exercise
 labels:
   - "invalid"
-title: "🙅: "
+title: "🙅: You don't want to open an issue here"
 body:
   - id: guidance
     type: markdown
@@ -21,7 +21,7 @@ body:
     attributes:
       label: Description
       description: >-
-        Enter the text you wish to put here.
+        You don't want to open an issue here.
     validations:
       required: true
   - type: checkboxes
